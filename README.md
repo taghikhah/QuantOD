@@ -1,6 +1,6 @@
 # Quantile-based Maximum Likelihood Training for Outlier Detection (QuantOD)
 
-Welcome to the official implementation repository for **Quantile-based Maximum Likelihood Training for Outlier Detection**. To dive deeper into our methodology, please consult our [paper](https://arxiv.org/abs/2310.06085).
+Welcome to the official implementation repository for **Quantile-based Maximum Likelihood Training for Outlier Detection**. To dive deeper into our methodology, please consult our [paper](https://arxiv.org/abs/2310.06085) accepted at AAAI 2024.
 
 **Authors:** Taghikhah*, Kumar*, Segvic, Eslami, and Gumhold.
 
