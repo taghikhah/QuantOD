@@ -4,7 +4,7 @@ Welcome to the official implementation repository for **Quantile-based Maximum L
 
 **Authors:** Taghikhah*, Kumar*, Segvic, Eslami, and Gumhold.
 
-Our research introduces a quantile-based maximum likelihood objective to learn the inlier distribution, aiming to enhance the separation between inliers and outliers during inference. By adapting a normalizing flow to pre-trained discriminative features, our technique efficiently flags outliers based on their log-likelihood evaluations.
+Our research introduces a quantile-based maximum likelihood objective to learn the inlier distribution, aiming to enhance the separation between inliers and outliers during inference. By adapting a normalizing flow to pre-trained discriminative features, our technique efficiently flags outliers based on their log-likelihood evaluations. Check out our AAAI 2024 conference ![poster](https://github.com/taghikhah/QuantOD/blob/main/images/AAAI_poster.pdf)
 
 ![QuantOD Visualization](https://github.com/taghikhah/QuantOD/blob/main/images/QuantOD.png)
 
