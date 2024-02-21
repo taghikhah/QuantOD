@@ -8,6 +8,9 @@ Our research introduces a quantile-based maximum likelihood objective to learn t
 
 ![QuantOD Visualization](https://github.com/taghikhah/QuantOD/blob/main/images/QuantOD.png)
 
+# Advertisement
+* Check out our CVPR 2023 highlight work [FFS](https://github.com/nish03/FFS/) on Outlier-aware Object Detection.
+
 ## Instructions
 
 Before diving into experiments, ensure you have the necessary libraries and packages installed. To simplify this process, we have provided a `requirements.txt` file. To install the dependencies, run the following command:
