@@ -8,6 +8,21 @@ Our research introduces a quantile-based maximum likelihood objective to learn t
 
 ![QuantOD Visualization](https://github.com/taghikhah/QuantOD/blob/main/images/QuantOD.png)
 
+# How to Cite
+If you find this code or paper useful in your research, please consider citing our paper as follows:
+```
+@inproceedings{taghikhah2024quantile,
+  title={Quantile-Based Maximum Likelihood Training for Outlier Detection},
+  author={Taghikhah, Masoud and Kumar, Nishant and {\v{S}}egvi{\'c}, Sini{\v{s}}a and Eslami, Abouzar and Gumhold, Stefan},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={19},
+  pages={21610--21618},
+  year={2024}
+}
+```
+
+
 ## Advertisement
 * Check out our CVPR 2023 highlight work [FFS](https://github.com/nish03/FFS/) on Outlier-aware Object Detection.
 
